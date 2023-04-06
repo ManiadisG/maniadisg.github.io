@@ -1,59 +1,26 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **MSc in Artificial Intelligence**, Queen Mary University of London, 2020
+* **Dipl. Electrical & Computer Engineering**, Aristotle University of Thessaloniki, 2018
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* **Research Intern at [SAIC](https://research.samsung.com/aicenter_cambridge)**, June 2022-December 2022
+* **Research Associate at [CERTH](https://www.certh.gr/root.en.aspx)**, Jan 2019-Aug 2019
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* **TA: Machine Learning** (ECS708), 2020-2021, 2021-2022
+* **TA: Artificial Intelligence** (ECS629;ECS659), 2020-2021, 2022-2023 
+* **TA: Machine Learning for Visual Data Analytics** (ECS797), 2020-2021, 2021-2022
