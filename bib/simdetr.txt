@@ -1,0 +1,6 @@
+@article{metaxas2023simdetr,
+  title={SimDETR: Simplifying self-supervised pretraining for DETR},
+  author={Metaxas, Ioannis Maniadis and Bulat, Adrian and Patras, Ioannis and Martinez, Brais and Tzimiropoulos, Georgios},
+  journal={arXiv preprint arXiv:2307.15697},
+  year={2023}
+}

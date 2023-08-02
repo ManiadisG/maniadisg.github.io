@@ -6,3 +6,20 @@
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
   position: relative;
 }
+
+.mybutton {
+  display: inline-block;
+  padding: 4px 10px;
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  border: 1px solid rgb(0, 0, 0);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+
+  &:hover {
+    background-color: #dbdbdb;
+  }
+}
