@@ -16,7 +16,24 @@ author_profile: true
   <tr>
     <td>
       <br1 style="font-size: 16px;">
-      <strong>SimDETR: Simplifying self-supervised pretraining for DETR</strong>
+      <strong>Efficient Unsupervised Visual Representation Learning with Explicit Cluster Balancing</strong>
+      </br1><br>
+      <p style="margin-bottom: 5px; margin-top: 5px"><i><strong>Ioannis Maniadis Metaxas</strong>, Georgios Tzimiropoulos, Ioannis Patras</i><br></p>
+      <p style="margin-bottom: 10px; margin-top: 5px"><u>Preprint</u><br></p>
+      <a href="https://arxiv.org/abs/2307.15697" class="mybutton">Arxiv</a> &emsp;
+      <a href="/bib/simdetr.txt" class="mybutton">Citation</a> &emsp;  
+    </td>
+    <td style="width: 400px; text-align: center;">
+      <img src="/images/simdetr.png" alt="alt text" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <br1 style="font-size: 16px;">
+      <strong>Aligned Unsupervised Pretraining of Object Detectors with Self-training</strong>
       </br1><br>
       <p style="margin-bottom: 5px; margin-top: 5px"><i><strong>Ioannis Maniadis Metaxas</strong>, Adrian Bulat, Ioannis Patras, Brais Martinez, Georgios Tzimiropoulos</i><br></p>
       <p style="margin-bottom: 10px; margin-top: 5px"><u>Preprint</u><br></p>
